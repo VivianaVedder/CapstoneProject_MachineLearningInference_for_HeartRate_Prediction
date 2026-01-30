@@ -20,7 +20,7 @@
 ## Use Case
 
 As previously described, this project utilizes data from the PhD project <a href="https://d-nb.info/1376022915" target="_blank" style="color:#66ccff; text-decoration:none;"> 
-"High-content screening for cardiovascular modulators in zebrafish (*Danio rerio*)"</a> by Viviana Vedder from 2024, that has been partially published together with a newly developed tool <a href="[https://github.com/ToReinberger/pyHeart4Fish]" target="_blank" style="color:#66ccff; text-decoration:none;"> 
+"High-content screening for cardiovascular modulators in zebrafish (*Danio rerio*)"</a> by Viviana Vedder from 2024, that has been partially published together with a newly developed tool <a href="https://github.com/ToReinberger/pyHeart4Fish" target="_blank" style="color:#66ccff; text-decoration:none;"> 
 pyHeart4Fish</a> in 2023. 
 
 This project aims to predict the effects of compounds on zebrafish heart rate to adhere to the 3R principle of reduce, refine, replace to reduce the resources required for drug screens. The y in this project is the Z HB column. To achieve this aim, the following objectives were set:
