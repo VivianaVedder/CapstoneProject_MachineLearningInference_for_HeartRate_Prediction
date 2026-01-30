@@ -1,4 +1,5 @@
-# Capstone Project: Beyond Chemical Structure: An Inference Pipeline for Predicting Drug Candidates via Therapeutic and Physicochemical Descriptors
+# Capstone Project: 
+## Beyond Chemical Structure: An Inference Pipeline for Predicting Drug Candidates via Therapeutic and Physicochemical Descriptors
 
 ### Table of contents
  1. Project Description
